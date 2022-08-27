@@ -1,8 +1,8 @@
 # fmoji
 Get emoji, Based on your reactions
 <p align="center">
-  <a href="https://codesandbox.io">
-    <img src="https://codesandbox.io/static/img/banner.png?v=2" height="300px">
+  <a href="javascript:void(0);">
+    <img src="result" height="300px">
   </a>
 </p>
 
