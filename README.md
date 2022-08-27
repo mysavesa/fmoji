@@ -2,7 +2,7 @@
 Get emoji, Based on your reactions
 <p align="center">
   <a href="javascript:void(0);">
-    <img src="result" height="300px">
+    <img src="https://raw.githubusercontent.com/mysavesa/fmoji/master/readme/assets/Screenshot%20(14).png" height="300px">
   </a>
 </p>
 
